@@ -11,7 +11,6 @@ I build clean, scalable systems and I care about doing things well — from arch
 - ☕ Java & Spring Boot are my comfort zone
 - 🧩 I enjoy solving complex problems and turning chaos into structure
 - 🌱 Always learning, always refining
-- 🐈 Living with my cat, coffee always black
 
 ---
 
